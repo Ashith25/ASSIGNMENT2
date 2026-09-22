@@ -31,7 +31,7 @@ Removed Duplicate Rows **Data – Remove Duplicates**
 
 ## Splitting and Merging Data:
 * Split the "Product ID" column into two separate columns for " Manufacturing Date" and "Country Code". Remove unnecessary characters, if any.
-  Split DD-MMM-yy into Manufacturing Date and Country Code;
+  Split DD-MMM-YY into Manufacturing Date and Country Code;
   hyphens removed from the resulting fields. **Data – Text to Columns**
   
 * Merge the "Brand Name" and "Product Name" columns into one column named "Product Brand".
